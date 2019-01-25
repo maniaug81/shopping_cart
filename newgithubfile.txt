@@ -1,0 +1,2 @@
+this file is created in github UI
+now want to see when i run jenkins job is it copied to jenkins workspace or not
